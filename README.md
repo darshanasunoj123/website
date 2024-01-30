@@ -1,2 +1,2 @@
 # website
-theme: jekyll-theme-Architect
+#theme: jekyll-theme-Architect
